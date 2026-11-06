@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Net Worth</string>
+    <string name="widget_name">Net Worth</string>
+    <string name="widget_description">Today\'s net worth, day change and trend</string>
+</resources>
